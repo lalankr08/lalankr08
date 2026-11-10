@@ -147,32 +147,11 @@ flowchart LR
 </div>
 
 ---
-
-## Contribution calendar
-
-<div align="center">
-
-<a href="https://github.com/lalankr08?tab=overview">
-  <img src="https://ghchart.rshah.org/00b8d4/lalankr08" alt="contribution calendar" width="100%" />
-</a>
-
-Pick a year to open it on my profile:
-
-[2026](https://github.com/lalankr08?tab=overview&from=2026-01-01&to=2026-12-31) |
-[2025](https://github.com/lalankr08?tab=overview&from=2025-01-01&to=2025-12-31) |
-[2024](https://github.com/lalankr08?tab=overview&from=2024-01-01&to=2024-12-31) |
-[2023](https://github.com/lalankr08?tab=overview&from=2023-01-01&to=2023-12-31) |
-[2022](https://github.com/lalankr08?tab=overview&from=2022-01-01&to=2022-12-31) |
-[2021](https://github.com/lalankr08?tab=overview&from=2021-01-01&to=2021-12-31) |
-[2020](https://github.com/lalankr08?tab=overview&from=2020-01-01&to=2020-12-31)
-
-</div>
-
 ---
 
 <div align="center">
 
-### Let's build something crazy.
+
 
 [lalankr.in](https://lalankr.in) | [LinkedIn](https://linkedin.com/in/lalankr08) | [Instagram](https://instagram.com/lalankr.08)
 
