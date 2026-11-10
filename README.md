@@ -66,7 +66,7 @@ flowchart LR
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,java,php,html,css&perline=9" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,java,php,html,css&perline=9" alt="languages" />
 </p>
 
 ### Frontend and mobile
@@ -124,14 +124,13 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lalankr08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalankr08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
-
 <img src="https://streak-stats.demolab.com?user=lalankr08&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lalankr08&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="activity graph" width="100%" />
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=lalankr08&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Flalankr08&query=%24.public_repos&label=Public%20repos&color=00b8d4&style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/lalankr08?label=Followers&color=7C4DFF&style=for-the-badge&logo=github)
+![Top language](https://img.shields.io/github/languages/top/lalankr08/CSES?label=Most%20solved%20in&color=f34b7d&style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
@@ -149,15 +148,34 @@ flowchart LR
 
 ---
 
+## Contribution calendar
+
 <div align="center">
 
+<a href="https://github.com/lalankr08?tab=overview">
+  <img src="https://ghchart.rshah.org/00b8d4/lalankr08" alt="contribution calendar" width="100%" />
+</a>
+
+Pick a year to open it on my profile:
+
+[2026](https://github.com/lalankr08?tab=overview&from=2026-01-01&to=2026-12-31) |
+[2025](https://github.com/lalankr08?tab=overview&from=2025-01-01&to=2025-12-31) |
+[2024](https://github.com/lalankr08?tab=overview&from=2024-01-01&to=2024-12-31) |
+[2023](https://github.com/lalankr08?tab=overview&from=2023-01-01&to=2023-12-31) |
+[2022](https://github.com/lalankr08?tab=overview&from=2022-01-01&to=2022-12-31) |
+[2021](https://github.com/lalankr08?tab=overview&from=2021-01-01&to=2021-12-31) |
+[2020](https://github.com/lalankr08?tab=overview&from=2020-01-01&to=2020-12-31)
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something crazy.
 
 [lalankr.in](https://lalankr.in) | [LinkedIn](https://linkedin.com/in/lalankr08) | [Instagram](https://instagram.com/lalankr.08)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
-<!---
-Lalan12/Lalan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
