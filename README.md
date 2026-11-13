@@ -34,7 +34,7 @@ class Lalan:
 
 ---
 
-## Currently building
+## Recent Projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -44,23 +44,6 @@ class Lalan:
 
 ---
 
-## Architecture: ME26B Batch Portal
-
-```mermaid
-flowchart LR
-    U[Student device<br/>installable PWA] -->|Workbox cache<br/>4-day sliding window| SW[Service Worker]
-    U -->|auth + realtime sync| FB[(Cloud Firestore<br/>multi-tab offline)]
-    U -->|login| AU[Firebase Auth]
-    FB -->|push| FCM[Firebase Cloud Messaging]
-    FCM --> U
-    U -->|files| CW[Cloudflare Workers]
-    CW --> R2[(Cloudflare R2<br/>zero egress)]
-    U -->|voice + text| AZ[Agent Zero]
-    AZ --> GQ[Groq Whisper v3 Turbo]
-    AZ --> GM[Gemini Flash]
-```
-
----
 
 ## Tech stack
 
